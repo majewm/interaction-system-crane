@@ -12,6 +12,10 @@ Interaction system using neural networks, fuzzy logic, complex data processing a
 
 Innovative interaction system for processing complex data using neural networks, fuzzy logic, simulation models and data calculation models.
 
+![Functional diagrams of the interactive control system of the mobile crane - the structure and dependencies of the complex data](interactive-control-system-functional-diagrams.png)
+
+Functional diagrams of the interactive control system of the mobile crane - the structure and dependencies of the complex data.
+
 ![Recognition of speech commands in natural language](innovative.system-speech-NLP.jpg)
 
 Recognition of speech commands in natural language.
