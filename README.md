@@ -1,66 +1,69 @@
 ## Project: Innovative Speech Interaction System of Lifting Devices and their Human Operators
 
-![Intelligent interactive control system of mobile loader cranes](innovative.system-1.png)
+## Author: 
+Maciej Majewski
+
+![Intelligent interactive control system of mobile loader cranes](/images/innovative.system-1.png)
 
 Intelligent interactive control system of mobile loader cranes.
 
-![Intelligent interactive control system of mobile loader cranes](innovative.system-2.png)
+![Intelligent interactive control system of mobile loader cranes](/images/innovative.system-2.png)
 
 Interaction system using neural networks, fuzzy logic, complex data processing and spoken NLP command control. 
 
-![Intelligent interactive control system of mobile loader cranes](innovative.system-3.png)
+![Intelligent interactive control system of mobile loader cranes](/images/innovative.system-3.png)
 
 Innovative interaction system for processing complex data using neural networks, fuzzy logic, simulation models and data calculation models.
 
-![Functional diagrams of the interactive control system of the mobile crane - the structure and dependencies of the complex data](interactive-control-system-functional-diagrams.png)
+![Functional diagrams of the interactive control system of the mobile crane - the structure and dependencies of the complex data](/images/interactive-control-system-functional-diagrams.png)
 
 Functional diagrams of the interactive control system of the mobile crane - the structure and dependencies of the complex data.
 
-![Recognition of speech commands in natural language](innovative.system-speech-NLP.jpg)
+![Recognition of speech commands in natural language](/images/innovative.system-speech-NLP.jpg)
 
 Recognition of speech commands in natural language.
 
-![Architecture of the system for speech interaction between the loader crane and the operator](innovative.system-architecture.jpg)
+![Architecture of the system for speech interaction between the loader crane and the operator](/images/innovative.system-architecture.jpg)
 
 Architecture of the system for speech interaction between the loader crane and the operator.
 
-![Interactive control system using hybrid neural network models, deep learning methods, data patterns and antipatterns](innovative.system-antipatterns.jpg)
+![Interactive control system using hybrid neural network models, deep learning methods, data patterns and antipatterns](/images/innovative.system-antipatterns.jpg)
 
 Interaction system using neural networks, fuzzy logic, complex data processing, spoken NLP command control, and machine learning antipatterns. 
 
-![](innovative.system-interaction-en.png)
+![](/images/innovative.system-interaction-en.png)
 
 Interaction system with complex data processing and spoken NLP command control (for macOS).
 
-![](innovative.system-interaction-pl.png)
+![](/images/innovative.system-interaction-pl.png)
 
 Interaction system with complex data processing and spoken NLP command control (for macOS).
 
-![](innovative.system-modules.jpg)
+![](/images/innovative.system-modules.jpg)
 
 Modules of the interaction system for crane control. 
 
-![Computer aided analysis and simulation of the mobile crane handling system](interaction-research-system.jpg)
+![Computer aided analysis and simulation of the mobile crane handling system](/images/interaction-research-system.jpg)
 
 Computer aided analysis and simulation of the mobile crane handling system.
 
-![Computational intelligence methods for analysis of the crane handling system and processes](interaction-research-params.jpg)
+![Computational intelligence methods for analysis of the crane handling system and processes](/images/interaction-research-params.jpg)
 
 Computational intelligence methods for analysis of the crane handling system and processes.
 
-![Computational intelligence methods for analysis of the crane handling system and processes](interaction-research-params-nets.jpg)
+![Computational intelligence methods for analysis of the crane handling system and processes](/images/interaction-research-params-nets.jpg)
 
 Computational intelligence methods for analysis of the crane handling system and processes.
 
-![Modular system for interactive speech crane control for surface computer devices](interactive.system.for.surface.platform.png)
+![Modular system for interactive speech crane control for surface computer devices](/images/interactive.system.for.surface.platform.png)
 
 Modular system for interactive speech crane control for surface computer devices. 
 
-![ARSC systems for loader cranes](ARSC-systems-for-loader-cranes.jpg)
+![ARSC systems for loader cranes](/images/ARSC-systems-for-loader-cranes.jpg)
 
 ARSC systems for loader cranes.
 
-![Interactive crane control research](control-research.png)
+![Interactive crane control research](/images/control-research.png)
 
 Interactive crane control research.
 
