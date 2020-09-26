@@ -1,7 +1,6 @@
-## Project: Innovative Speech Interaction System of Lifting Devices and their Human Operators
+## Innovative Speech Interaction Systems of Lifting Devices and their Human Operators
 
-## Author: 
-Maciej Majewski
+### Author: Maciej Majewski
 
 ![Intelligent interactive control system of mobile loader cranes](/images/innovative.system-1.png)
 
@@ -68,7 +67,7 @@ ARSC systems for loader cranes.
 Interactive crane control research.
 
 
-## Source:
+### Source:
 
 Majewski M., Kacalak W.: 
 [Conceptual Design of Innovative Speech Interfaces with Augmented Reality and Interactive Systems for Controlling Loader Cranes](http://doi.org/10.1007/978-3-319-33625-1_22) <br />
@@ -91,12 +90,19 @@ Majewski M., Kacalak W.:
 Majewski M., Kacalak W.: 
 [Smart Control of Lifting Devices Using Patterns and Antipatterns](http://doi.org/10.1007/978-3-319-57261-1_48)
 
-## Goal: 
-
+### Goal: 
 Main goal of the project is to design and build a prototype of an innovative intelligent speech interaction system between loader cranes (Hiab XS 111) and their human operators. The presented research consists of implementing complex applications (interaction system) for crane control using hybrid neural networks for processing spoken natural languages and data. It also covers the development of mathematical and simulation models, and methods for computing crane operations and strategies in order to analyze many invented solutions to important problems. The research also includes the integration of the implemented speech-based interface with vision and sensorial systems, as it is a part of the main project in which the loader crane controlled by the developed ARSC (Augmented Reality & Smart Control) system will be used for experimental investigations of the system efficiency and increased operator's safety.
 
 The main project is financed by the National Centre for Research and Development, Poland (NCBiR), under the Applied Research Programme.
 
-## Methods: 
-C#, SolidWorks, Objective-C, AutoCAD, Visual Studio, Xcode, Mac OS X, iOS, Windows Operating Systems, Neural Networks, Matlab, Optimization.
+### Implemented methods:
+* Development of the complex applications (interaction system) for crane control using hybrid neural networks for processing spoken natural languages and complex data.
+* The implemented methods also included: control anti-patterns, crane programming language, mathematical and simulation models, methods for computing data for the crane operations and strategies in order to analyze invented solutions to important problems;
+* The implemented methods also included: neural networks, data computational models, simulation models, data patterns and antipatterns.
+* Project goal: Integration of the implemented prototype of an innovative intelligent interactive system with the ARSC (Augmented Reality & Smart Control) system and the loader crane (Hiab XS 111) for experimental investigations of the system efficiency and increased operator's safety.
 
+### Technology stack:
+C#, Visual Studio, Swift, Xcode, implementations of neural networks, databases, data structures and processing, SolidWorks, AutoCAD, Windows, macOS, Linux server, MySQL server, Java, Matlab, dSPACE.
+
+### Project's features: 
+Project's features: ...
