@@ -1,4 +1,4 @@
-## Innovative Speech Interaction Systems of Lifting Devices and their Human Operators
+## Innovative Speech Interaction Systems with Complex Data Processing, Machine Learning and Spoken NLP Command Control
 
 ### Author: Maciej Majewski
 
@@ -30,15 +30,15 @@ Architecture of the system for speech interaction between the loader crane and t
 
 Interaction system using neural networks, fuzzy logic, complex data processing, spoken NLP command control, and machine learning antipatterns. 
 
-![](/images/innovative.system-interaction-en.png)
+![Interaction system](/images/innovative.system-interaction-en.png)
 
 Interaction system with complex data processing and spoken NLP command control (for macOS).
 
-![](/images/innovative.system-interaction-pl.png)
+![Interaction system](/images/innovative.system-interaction-pl.png)
 
 Interaction system with complex data processing and spoken NLP command control (for macOS).
 
-![](/images/innovative.system-modules.jpg)
+![Interaction system](/images/innovative.system-modules.jpg)
 
 Modules of the interaction system for crane control. 
 
@@ -105,4 +105,4 @@ The main project is financed by the National Centre for Research and Development
 C#, Visual Studio, Swift, Xcode, implementations of neural networks, databases, data structures and processing, SolidWorks, AutoCAD, Windows, macOS, Linux server, MySQL server, Java, Matlab, dSPACE.
 
 ### Project's features: 
-Project's features: ...
+[...]
